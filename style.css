@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #7fafff;
+}
+
+div.main {
+    margin: auto;
+    width: 600px;
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    background-color: #eeeeff;
+    border: none;
+    border-radius: 6px;
+}
+
+h1, h2 {
+    font-family: Ubuntu, 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 32pt;
+    text-align: center;
+}
+
+h2 {
+    color: #004faf;
+    font-size: 20pt;
+}
+
+img {
+    width: 100%;
+}
